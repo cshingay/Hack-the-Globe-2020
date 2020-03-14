@@ -1,0 +1,124 @@
+,Charity Name,Cause,Program Percentage,Cost to $100
+0,NAACP Legal Defense and Educational Fund,African-American Charities,76%,$9
+1,National Urban League (National Office),African-American Charities,79%,$12
+2,Elizabeth Glaser Pediatric AIDS Foundation,AIDS Charities,90%,$16
+3,Foundation for AIDS Research (amfAR),AIDS Charities,80%,$18
+4,American Indian College Fund,American Indian Charities,74%,$24
+5,Native American Rights Fund,American Indian Charities,74%,$8
+6,American Humane,Animal & Animal Protection Charities,83%,$14
+7,Animal Welfare Institute,Animal & Animal Protection Charities,91%,$1
+8,Bat Conservation International,Animal & Animal Protection Charities,75%,$26
+9,Best Friends Animal Society,Animal & Animal Protection Charities,72%,$16
+10,Dian Fossey Gorilla Fund International,Animal & Animal Protection Charities,84%,$3
+11,Humane Farming Association,Animal & Animal Protection Charities,82%,$18
+12,Jane Goodall Institute,Animal & Animal Protection Charities,75%,$25
+13,Marine Mammal Center,Animal & Animal Protection Charities,80%,$15
+14,National Disaster Search Dog Foundation,Animal & Animal Protection Charities,73%,$13
+15,Performing Animal Welfare Society (PAWS),Animal & Animal Protection Charities,87%,$2
+16,PetSmart Charities,Animal & Animal Protection Charities,95%,$3
+17,Wildlife Conservation Society,Animal & Animal Protection Charities,84%,$14
+18,Asia Foundation,Asia & Asian-American Charities,87%,$1
+19,Asia Society,Asia & Asian-American Charities,73%,$12
+20,Guide Dog Foundation for the Blind,Blind & Visually Impaired Charities,82%,$9
+21,Helen Keller International,Blind & Visually Impaired Charities,85%,$7
+22,National Federation of the Blind,Blind & Visually Impaired Charities,81%,$17
+23,Prevent Blindness,Blind & Visually Impaired Charities,80%,$17
+24,Breast Cancer Prevention Partners,Cancer Charities,77%,$13
+25,Breast Cancer Research Foundation,Cancer Charities,88%,$9
+26,Cancer Research Institute,Cancer Charities,84%,$15
+27,Entertainment Industry Foundation,Cancer Charities,82%,$9
+28,Child Find of America,Child Protection Charities,92%,$3
+29,ChildFund International,Child Sponsorship Charities,78%,$19
+30,Children Incorporated,Child Sponsorship Charities,85%,$6
+31,Children International,Child Sponsorship Charities,84%,$8
+32,Compassion International,Child Sponsorship Charities,82%,$14
+33,American Civil Liberties Union (ACLU),Civil Rights & Advocacy Charities,84%,$5
+34,American Civil Liberties Union (ACLU) Foundation,Civil Rights & Advocacy Charities,90%,$7
+35,Electronic Frontier Foundation,Civil Rights & Advocacy Charities,74%,$13
+36,Equal Justice Initiative,Civil Rights & Advocacy Charities,92%,$1
+37,Human Rights Campaign Foundation,Civil Rights & Advocacy Charities,71%,$13
+38,Interfaith Alliance Foundation,Civil Rights & Advocacy Charities,69%,$12
+39,Unitarian Universalist Service Committee (UUSC),Civil Rights & Advocacy Charities,77%,$17
+40,Food and Water Watch,Consumer Protection & Legal Aid Charities,81%,$12
+41,Government Accountability Project (GAP),Consumer Protection & Legal Aid Charities,76%,$10
+42,Physicians Committee for Responsible Medicine,Consumer Protection & Legal Aid Charities,73%,$25
+43,Project on Government Oversight (POGO),Consumer Protection & Legal Aid Charities,78%,$9
+44,Concerns of Police Survivors (COPS),Crime & Fire Prevention Charities,83%,$22
+45,Drug Policy Alliance,Drug & Alcohol Abuse Charities,68%,$14
+46,Partnership for Drug-Free Kids,Drug & Alcohol Abuse Charities,83%,$11
+47,African Wildlife Foundation,Environment Charities,81%,$22
+48,Alaska Conservation Foundation,Environment Charities,75%,$9
+49,Amazon Conservation Team,Environment Charities,77%,$4
+50,American Bird Conservancy,Environment Charities,81%,$8
+51,American Rivers,Environment Charities,72%,$26
+52,Appalachian Mountain Club,Environment Charities,85%,$14
+53,Center for Biological Diversity,Environment Charities,84%,$9
+54,Conservation Fund,Environment Charities,97%,$2
+55,Conservation International Foundation,Environment Charities,84%,$9
+56,Defenders of Wildlife,Environment Charities,71%,$12
+57,Earth Island Institute,Environment Charities,81%,$11
+58,Earthjustice,Environment Charities,77%,$8
+59,Earthworks,Environment Charities,86%,$7
+60,Environmental Defense Action Fund,Environment Charities,98%,$2
+61,Environmental Defense Fund,Environment Charities,77%,$20
+62,Environmental Working Group,Environment Charities,83%,$10
+63,Global Green USA,Environment Charities,74%,$26
+64,Izaak Walton League of America (National Office),Environment Charities,71%,$9
+65,Keep America Beautiful (National Office),Environment Charities,81%,$15
+66,National Audubon Society,Environment Charities,76%,$24
+67,National Forest Foundation,Environment Charities,84%,$14
+68,National Park Foundation (NPF),Environment Charities,87%,$7
+69,National Park Trust,Environment Charities,86%,$10
+70,National Wildlife Federation,Environment Charities,87%,$7
+71,Natural Resources Defense Council (NRDC),Environment Charities,78%,$11
+72,Nature Conservancy,Environment Charities,75%,$15
+73,Oceana,Environment Charities,73%,$7
+74,Rainforest Action Network,Environment Charities,76%,$18
+75,Rainforest Alliance,Environment Charities,79%,$25
+76,Save the Redwoods League,Environment Charities,74%,$24
+77,Sierra Club Foundation,Environment Charities,88%,$11
+78,Trout Unlimited (National Office),Environment Charities,86%,$17
+79,Trust for Public Land,Environment Charities,82%,$14
+80,Union of Concerned Scientists,Environment Charities,77%,$17
+81,American Kidney Fund,Health - General Charities,97%,$2
+82,American Liver Foundation,Health - General Charities,80%,$11
+83,American Lung Association (National Office),Health - General Charities,84%,$13
+84,Hispanic Federation,Hispanic Charities,84%,$13
+85,Hispanic Scholarship Fund,Hispanic Charities,92%,$2
+86,LatinoJustice PRLDEF,Hispanic Charities,81%,$9
+87,Committee to Protect Journalists,Human Rights Charities,75%,$17
+88,American Red Cross,Human Services Charities,89%,$31
+89,Farm Aid,Human Services Charities,83%,$14
+90,The Y (National Office),Human Services Charities,87%,$6
+91,Action Against Hunger-USA,Hunger Charities,87%,$3
+92,Africare,International Relief & Development Charities,97%,$1
+93,Alight,International Relief & Development Charities,89%,$3
+94,American Jewish Committee (AJC),Jewish & Israel Charities,73%,$14
+95,American Jewish Joint Distribution Committee,Jewish & Israel Charities,89%,$4
+96,American Jewish World Service,Jewish & Israel Charities,87%,$8
+97,Astraea Lesbian Foundation for Justice,LGBTQ Rights & Advocacy Charities,86%,$9
+98,ProLiteracy Worldwide,Literacy Charities,78%,$22
+99,Clinton Foundation,Peace & International Relations Charities,75%,$15
+100,International Peace Institute,Peace & International Relations Charities,84%,$11
+101,Physicians for Social Responsibility (National Office),Peace & International Relations Charities,78%,$16
+102,Ploughshares Fund,Peace & International Relations Charities,81%,$18
+103,Common Cause Education Fund,Public Policy Charities,84%,$6
+104,FAIR,Public Policy Charities,81%,$2
+105,Center for Reproductive Rights,"Reproductive Health, Family Planning, & Abortion Charities",75%,$12
+106,National Council on Aging,Senior Citizens Charities,95%,$4
+107,Armed Services YMCA of the USA,Veterans & Military Charities,81%,$14
+108,Bob Woodruff Family Foundation,Veterans & Military Charities,82%,$13
+109,Fisher House Foundation,Veterans & Military Charities,93%,$3
+110,Gary Sinise Foundation,Veterans & Military Charities,89%,$4
+111,Homes For Our Troops,Veterans & Military Charities,87%,$8
+112,Hope For The Warriors,Veterans & Military Charities,84%,$11
+113,Intrepid Fallen Heroes Fund,Veterans & Military Charities,79%,$6
+114,Mission Continues,Veterans & Military Charities,85%,$8
+115,National Military Family Association,Veterans & Military Charities,82%,$15
+116,Navy-Marine Corps Relief Society,Veterans & Military Charities,86%,$9
+117,Operation Homefront,Veterans & Military Charities,79%,$10
+118,Semper Fi Fund,Veterans & Military Charities,91%,$3
+119,Tragedy Assistance Program for Survivors (TAPS),Veterans & Military Charities,88%,$6
+120,Wounded Warriors Family Support,Veterans & Military Charities,85%,$10
+121,Global Fund for Women,Women's Rights Charities,79%,$11
+122,CEDARS,Youth-Residential Charities,90%,$14
