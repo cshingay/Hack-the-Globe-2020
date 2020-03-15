@@ -27,6 +27,7 @@ causes_dict = {
 issue_count = len(options_list[1])
 answer_list1 = []
 answer_list2 = []
+answer_list3 = []
 temp_list = []
 answer = 0
 remove_index = []
@@ -123,11 +124,32 @@ def q_3():
     for cause in final_val_causes:
         cause_choices.append(str(final_val_causes.index(cause)+1) + ". " + cause)
 
-    if len(cause_choices) > 10:
+    if len(cause_choices) > 5:
         print(questions_list[2] + "\n" + "\n".join(cause_choices))
-        print("You may select up to 10:")
+        print("You may select up to 5:")
+        enter = True
+        j = 0
+        x = {1: "first", 2: "second", 3: "third", 4: "fourth", 5: "fifth"}
+        while enter:
+            if j == 5:
+                enter = False
+                break
+            else:
+                print("Select your " + x[j+1] + " choice:")
+                ans = input()
+                if ans == "done":
+                    break
+                answer = int(ans)
+                if answer <= 0 or answer > len(cause_choices):
+                    print("Invalid input. Please choose one of the following:")
+                    q_3()
+                else:
+                    answer_list3.append(final_val_causes[answer-1])
+                    j += 1
     else:
-        print("Final Causes:" + "\n" + "\n".join(final_val_causes) + "\n\n")
+        answer_list3.append(final_val_causes[:])
+    
+    print("Final Causes:" + "\n" + "\n".join(answer_list3) + "\n\n")
 
 
 
