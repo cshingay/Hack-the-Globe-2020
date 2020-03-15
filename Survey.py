@@ -1,7 +1,7 @@
 # Survey with questions 
 
 # Python Question List
-questions_list = ["What crisis/disaster are you interested in supporting?", "What global issues do you value?", "What do you value in a charity?"]
+questions_list = ["Question 1: What crisis/disaster are you interested in supporting?", "Question 2: What global issues do you value?", "Question 3: What do you value in a charity?"]
 
 # List of options for each of the questions
 options_list = [
@@ -64,6 +64,8 @@ def q_1C(options_list, temp_list, remove_index): # Question 1 Third Choice
         remove_index.append(answer) # put number of removed - index is -1
         temp_list = []
         answer = 0
+    
+    print("Crisis/Disaster Responses: " + "\n" + "\n".join(answer_list1) + "\n\n")
 
 def q_2():
     print(questions_list[1] + "\n" + "\n".join(options_list[1]))
@@ -90,7 +92,7 @@ def q_2():
                 answer_list2.append(options_list[1][answer-1])
                 i += 1
     
-    print(answer_list2)
+    print("Global Issues Choices: " + "\n" + "\n".join(answer_list2))
 
 
 
