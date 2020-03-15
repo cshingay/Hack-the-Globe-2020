@@ -26,10 +26,10 @@ def output(headlines):
         
         headlines[i] = temp_string
         line = headlines[i].split()
+        print(line)
         for word in line:
             f.write(word + "\t")
         f.write("\n")
-
     f.close()
 
 
