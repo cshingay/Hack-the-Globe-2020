@@ -1,7 +1,20 @@
-"""
-Scraping charity organization data from: Charity Navigator
-
-"""
+'''
+General Structure:
+    - Used beautifulsoup api to scrape data about charities from Charity Navigator
+    - Data gathered:
+        - Name
+        - General Category
+        - Specific Cause
+        - Financial Data
+            - Program Expense Percentage
+            - Administrative Expense Percentage
+            - Fundraising Expense Percentage
+            - Fundraising Efficiency
+        - Focused Programs
+            - Program name
+            - Percent of budget allocated towards
+    - Created pandas dataframe and saved as txt file
+'''
 
 import requests
 from bs4 import BeautifulSoup as bs
